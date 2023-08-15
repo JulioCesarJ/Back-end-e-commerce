@@ -1,3 +1,3 @@
 Back end para e-commerce
 
-iniciado a criação
+iniciado a criação do projeto
